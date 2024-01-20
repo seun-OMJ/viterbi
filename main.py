@@ -1,8 +1,3 @@
-#--------------------------------------------
-# NAME: SEUN OMOJOLA
-# STUDENT NUMBER: 7880480 
-# COURSE: COMP 4820
-#---------------------------------------------
 import pandas as pd
 import sys
 import numpy as np
